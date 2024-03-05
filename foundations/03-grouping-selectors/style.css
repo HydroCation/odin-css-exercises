@@ -1,0 +1,14 @@
+.uniq1,
+.uniq2{
+  font-size: 28px;
+  font-family: Helvetica,'Times New Roman',sans-serif;
+}
+
+.uniq1{
+  background-color: black;
+  color:#ffffff;
+  font-weight: bold;
+}
+.uniq2{
+  background-color: hsl(60, 100%, 50%);
+}
